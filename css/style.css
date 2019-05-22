@@ -1,0 +1,218 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.top{
+	background: url(../img/bg.png)no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+}
+
+.top img{
+	margin: 20px auto;
+    width: 150px;
+}
+
+i.fa.fa-bars {
+    color: #2A5DA3;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.cntr{
+	text-align: center;
+}
+
+.top h1{
+	color: white;
+    margin-top: 140px;
+    margin-bottom: 20px;
+}
+
+.top p{
+	color: #2A5DA3;
+	font-size: 20px;
+}
+
+.btn{
+    color: white;
+    border-color: #2A5DA3;
+    background-color: #0A2345;
+    border-radius: 20px;
+    padding: 9px 20px;
+}
+
+button.btn {
+    color: white;
+    border-color: #2A5DA3;
+    background-color: #0A2345;
+    border-radius: 20px;
+    padding: 9px 20px;
+    margin: 60px auto;
+}
+
+button.btn:hover{
+    color: #2A5DA3;
+    background-color: white;
+    transition: 0.8s ease;
+}
+
+img.screen-bg{
+	width: 100%;
+	margin-top: 250px;
+}
+
+img.sc-phone{
+	    position: absolute;
+    width: 80%;
+    left: 135px;
+    bottom: -70px;
+}
+
+.headphone{
+	position: relative;
+}
+
+img.hp-pic {
+    width: 50%;
+    left: 0px;
+    top: 70px;
+    position: absolute;
+}
+
+.headphone h1{
+	margin-top: 170px;
+
+}
+
+.headphone button{
+	margin-bottom: 215px;
+}
+
+.phn{
+
+}
+
+
+
+.feature h3{
+	color: white;
+    font-size: 23px;
+}
+
+.feature p{
+	    font-size: 15px;
+    margin: 20px auto;
+
+}
+
+.row.row-one {
+    margin-bottom: 55px;
+}
+
+i.fa.fa-volume-up {
+    color: #FF3334;
+    font-size: 50px;
+    margin: 5px auto;
+}
+
+i.fa.fa-headphones {
+	color: #FF3334;
+    font-size: 50px;
+    margin: 5px auto;
+}
+
+i.fa.fa-bolt{
+	color: #FF3334;
+    font-size: 50px;
+    margin: 5px auto;
+}
+
+i.fa.fa-eye{
+	color: #FF3334;
+    font-size: 50px;
+    margin: 5px auto;
+}
+
+i.fa.fa-power-off {
+    margin-top: 300px;
+    color: #FF3334;
+    font-size: 50px;
+}
+
+img.phn {
+    position: absolute;
+    width: 45%;
+    top: 118pc;
+    left: 360px;
+}
+
+.slide p{
+	font-size: 16px;
+	margin-bottom: 350px;
+}
+
+.slide h2{
+	color: white;
+    font-size: 26px;
+}
+
+.slide img{
+    width: 60%;
+    position: absolute;
+    top: 164pc;
+    left: 540px;
+}
+
+.comment{
+	background-color: #0A1B35;
+}
+
+.comment p{
+	margin: 100px auto;
+	color: #2A5DA3;
+	width: 600px;
+}
+
+.last{
+	background-color: black;
+}
+
+.last h2{
+	    color: white;
+    margin-top: 60px;
+}
+
+.last p{
+	margin: 25px auto;
+	color: #2A5DA3;
+	width: 700px;
+}
+
+.last img{
+	width: 600px;
+}
+
+.row.foot {
+    margin-top: 150px;
+}
+
+.row.foot li{
+	    display: inline;
+    list-style: none;
+}
+
+.footy{
+	margin-left: -100px;
+}
+
+p.copyr {
+    margin-left: -150px;
+    margin-top: 36px;
+}
+
+.col-md-4.footy {
+    margin: 34px auto;
+}
